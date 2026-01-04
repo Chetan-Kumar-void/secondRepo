@@ -1,2 +1,2 @@
-#This is new repo.<br>
-#trying to figure out things .
+# This is new repo.<br>
+# Trying to figure out things .
